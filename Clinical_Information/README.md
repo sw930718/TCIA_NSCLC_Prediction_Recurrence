@@ -3,4 +3,4 @@
 **feature** : PatientID, Age, T Stage, N Stage, M Stage, Overall Stage, Gender, Histology, Survival Time 
 
 _     
-Contributors [이지현](https://github.com/leeejihyun)
+Collaborator [이지현](https://github.com/leeejihyun)
